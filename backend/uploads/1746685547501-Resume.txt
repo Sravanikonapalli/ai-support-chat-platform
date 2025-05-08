@@ -1,0 +1,105 @@
+SRAVANI KONAPALLI
+Full Stack Developer
+
+konapallisravani@gmail.com
+9381037572
+https://www.linkedin.com/in/sravani-konapalli-478649238/
+B. Kothakota, Andhra Pradesh, 517325
+
+Summary
+======
+I am a dedicated full-stack developer with a strong academic background in computer Applications and a passion for creating innovative solutions. Currently pursuing an Industry Ready Certification in Full-stack Development, I have successfully built several projects utilizing technologies such as React, Node.js, and SQLite. With a proven track record in e-commerce and application development, I am committed to delivering high-quality software solutions
+
+
+Education
+======
+Industry Ready Certification in Full-stack Development
+Nxtwave Disruptive Technologies
+02/2024 - Ongoing
+
+MCA (Master of Computer Application)
+Madanapalle Institute of Technology and Science
+01/2022 - 07/2024
+Madanapalle
+
+BSc (Bachelor of Science)
+Shri Gnanambica Degree College
+01/2019 - 01/2022
+Madanapalle
+
+Intermediate
+Krishna Reddy Siddhartha Junior College
+01/2017 - 01/2019
+Madanapalle
+
+Secondary School Of Certificate
+Z P High School
+01/2016 - 01/2017
+B. Kothakota
+
+
+Languages
+======
+TELUGU
+
+
+Achievements
+======
+Boosted Site Traffic
+Increased e-commerce site traffic by 30% through optimized React components and SEO strategies.
+
+Optimized API Performance
+Reduced API response time by 40% using optimized Node.js and SQLite techniques.
+
+Created Reusable Components
+Developed 50+ reusable components for React projects, improving development speed and consistency.
+
+Enhanced App Security
+Implemented 3-tier security for apps, reducing breach incidents by 60% in 6 months.
+
+
+Skills
+======
+ - AWS
+ - AWS Services
+ - Bootstrap
+ - CSS
+ - ECommerce
+ - HTML
+ - JavaScript
+ - JWT
+ - MongoDB
+ - Python
+ - React
+ - React Router
+ - REST
+ - Vercel
+ - Node.js
+ - Express.js
+ - Router
+ - Gmail
+ - SQLite
+
+
+Projects
+======
+Nxt Trendz
+svinxttrendz.ccbp.tech
+Nxt Trendz ( ECommerce Clone - Amazon, Flipkart)
+ - Rolled out an innovative e-commerce platform patterned after Amazon and Flipkart
+ - Designed pages for Login, Products, and Product details with React Router and React components
+ - Ensured user security through JWT tokens, REST API calls, and local storage
+
+Recipe Management App
+https://recipe-management-698brtho8-sravanis-projects-b78ff232.vercel.app/
+Recipe Management App
+ - A full-stack application for managing recipes, built with React and SQLite
+ - Users can add, view, and delete recipes, categorized with images, instructions, and cost details
+ - Users can submit new recipes with all necessary details
+
+Job Listing Platform
+https://job-listing-platform-six.vercel.app/
+Job Listing Platform
+ - A full-stack job listing platform built with React and Node.js, featuring secure authentication and a user-friendly interface
+ - Display jobs with filtering and search functionality
+
