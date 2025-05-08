@@ -13,7 +13,7 @@ const Login = ({ setIsAuthenticated }) => {
     e.preventDefault();
 
     try {
-      const response = await axios.post('https://ai-support-chat-platform.onrender.com/login', { email, password });
+      const response = await axios.post('https://ai-support-chat-platform-1.onrender.com/login', { email, password });
       setMessage(response.data.message);
       localStorage.setItem('authToken', response.data.token); 
       localStorage.setItem('user', email); 
