@@ -63,8 +63,8 @@ This project aims to create a customer support chat platform powered by AI. User
 
 ### Deployment
 
-- **Frontend Live URL:** [Frontend Live URL Placeholder]
-- **Backend Live URL:** [Backend Live URL Placeholder]
+- **Frontend Live URL:** []
+- **Backend Live URL:** [https://ai-support-chat-platform.onrender.com]
 
 ---
 

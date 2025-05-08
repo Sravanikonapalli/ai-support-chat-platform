@@ -14,7 +14,7 @@ const Register = () => {
     e.preventDefault();
 
     try {
-      const response = await axios.post('http://localhost:5000/register', { username, email, password });
+      const response = await axios.post('https://ai-support-chat-platform.onrender.com/register', { username, email, password });
       setMessage(response.data.message);
       localStorage.setItem('authToken', response.data.token);
       navigate('/login');  
